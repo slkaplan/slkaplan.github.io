@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Bridge of Doom - Quantitative Engineering Analysis Final Project](/sample_page)
+[Bridge of Doom - Quantitative Engineering Analysis Final Project](https://github.com/slkaplan/BridgeOfDoom-QEA-Spring-2020)
 <img src="images/bridgeofdoomThumbnail.PNG?raw=true"/>
 
 ---
