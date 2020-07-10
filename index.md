@@ -5,7 +5,7 @@
 ### Projects 
 
 [Bridge of Doom - Quantitative Engineering Analysis Final Project](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bridgeofdoomThumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
