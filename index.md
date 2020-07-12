@@ -6,7 +6,13 @@
 
 <img src="images/bridgeofdoomThumbnail.PNG?raw=true"/>
 
-STATEMENT
+The goal for this project was to have a simulated NEATO robot traverse a
+dangerous volcanic bridge using an open loop control system. This was accomplished mainly through MATLAB and its ROS toolbox. The centerline of the
+bridge the NEATO robot had to traverse is defined by the following parametric
+curve:
+
+r(u) = 4 ∗ [0.3960 cos(2.65(u + 1.4))i − 0.99 sin(u + 1.4)j].(u ∈ [0, 3.2])
+
 
 [Project Github](https://github.com/slkaplan/BridgeOfDoom-QEA-Spring-2020)<br/>
 [Project Report](/pdfs/BOD_writeup)<br/>
