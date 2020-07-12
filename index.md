@@ -9,7 +9,9 @@
 
 ---
 [NEATO Gauntlet](/pdfs/QEA_Gauntlet-1.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/gauntlet layout.JPG?raw=true"/>
+<img src="images/pot fields.JPG?raw=true"/>
+<img src="images/paths.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
