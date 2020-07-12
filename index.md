@@ -9,33 +9,20 @@
 STATEMENT
 
 [Project Github](https://github.com/slkaplan/BridgeOfDoom-QEA-Spring-2020)
-[Project Report]/pdfs/QEA_Gauntlet-1.pdf
+[Project Report](/pdfs/BOD_writeup)
+[Watch it in action!](https://www.youtube.com/watch?v=pFaZ9D6f-rY)
 
 
 ---
-[NEATO Gauntlet](/pdfs/QEA_Gauntlet-1.pdf)
 
-<img src="images/gauntlet layout.JPG?raw=true" alt="gauntlet" width="200"/>
-<img src="images/pot fields.JPG?raw=true" alt="pot fields" width="200"/>
-<img src="images/paths.JPG?raw=true" alt="paths" width="200"/>
+### NEATO: Navigating the Gauntlet
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/paths.JPG?raw=true"/>
 
----
+STATEMENT
 
-### NEATO Gauntlet
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+[Project Github](https://github.com/samjumjum/QEA_Final_Gauntlet)
+[Project Report]((/pdfs/QEA_Gauntlet-1.pdf)
+[Watch it in action!](https://www.youtube.com/watch?v=0D3JNF2A-vk&feature=youtu.be)
 
 
-
-
----
