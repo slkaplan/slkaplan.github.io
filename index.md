@@ -8,7 +8,7 @@
 <img src="images/bridgeofdoomThumbnail.PNG?raw=true"/>
 
 ---
-[NEATO Gauntlet](/pdf/sample_presentation.pdf)
+[NEATO Gauntlet](/pdfs/QEA_Gauntlet-1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
