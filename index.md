@@ -10,7 +10,7 @@ STATEMENT
 
 [Project Github](https://github.com/slkaplan/BridgeOfDoom-QEA-Spring-2020)\
 [Project Report](/pdfs/BOD_writeup)\
-[Watch it in action!](https://www.youtube.com/watch?v=pFaZ9D6f-rY)\
+[Watch it in action!](https://www.youtube.com/watch?v=pFaZ9D6f-rY)
 
 
 ---
@@ -22,7 +22,7 @@ STATEMENT
 STATEMENT
 
 [Project Github](https://github.com/samjumjum/QEA_Final_Gauntlet)\
-[Project Report]((/pdfs/QEA_Gauntlet-1.pdf)\
-[Watch it in action!](https://www.youtube.com/watch?v=0D3JNF2A-vk&feature=youtu.be)\
+[Project Report](/pdfs/QEA_Gauntlet-1.pdf)\
+[Watch it in action!](https://www.youtube.com/watch?v=0D3JNF2A-vk&feature=youtu.be)
 
 
