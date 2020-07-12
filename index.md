@@ -7,7 +7,7 @@
 <img src="images/bridgeofdoomThumbnail.PNG?raw=true"/>
 
 Simulated a NEATO robot traversing a dangerous volcanic bridge using an open loop control system. The centerline of the bridge was given by a parametric curve. 
-Tools used: 
+Tools used:<br/>
   *MATLAB and its ROS toolbox
 
 [Project Github](https://github.com/slkaplan/BridgeOfDoom-QEA-Spring-2020)<br/>
