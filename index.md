@@ -1,11 +1,16 @@
-## Portfolio
+## Projects
 
 ---
 
-### Projects 
+### Bridge of Doom - Quantitative Engineering Analysis Final Project
 
-[Bridge of Doom - Quantitative Engineering Analysis Final Project](https://github.com/slkaplan/BridgeOfDoom-QEA-Spring-2020)
 <img src="images/bridgeofdoomThumbnail.PNG?raw=true"/>
+
+STATEMENT
+
+[Project Github](https://github.com/slkaplan/BridgeOfDoom-QEA-Spring-2020)
+[Project Report]/pdfs/QEA_Gauntlet-1.pdf
+
 
 ---
 [NEATO Gauntlet](/pdfs/QEA_Gauntlet-1.pdf)
