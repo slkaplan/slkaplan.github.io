@@ -9,6 +9,7 @@
 
 ---
 [NEATO Gauntlet](/pdfs/QEA_Gauntlet-1.pdf)
+
 <img src="images/gauntlet layout.JPG?raw=true" alt="gauntlet" width="200"/>
 <img src="images/pot fields.JPG?raw=true" alt="pot fields" width="200"/>
 <img src="images/paths.JPG?raw=true" alt="paths" width="200"/>
