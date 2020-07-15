@@ -1,10 +1,13 @@
 title: Sam Kaplan # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+<> logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Robotics Engineering student at Olin College of Engineering. I love to do anything from rapid prototyping to embedded hardware to satellite communication. But really I just love to make cool stuff!
   <br><br>
   Currently looking for Fall 2020 and Summer 2021 Internships.  
   <br><br>
+  
+  [View my Resume](/pds/Sam_Kaplan_7-1.pdf)<br/>
+  
   <a href="https://www.linkedin.com/in/sam-kaplan-026bb8164/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
