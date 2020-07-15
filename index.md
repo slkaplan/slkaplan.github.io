@@ -28,5 +28,5 @@ We had the goal of competing in the 2020 IREC Space Port America competition, bu
 Simulated a NEATO robot traversing a dangerous volcanic bridge using an open loop control system. The centerline of the bridge was given by a parametric curve. Used MATLAB and its ROS toolbox.<br/>
 
 [Project Github](https://github.com/slkaplan/BridgeOfDoom-QEA-Spring-2020)<br/>
-[Project Report](/pdfs/BOD_writeup)<br/>
+[Project Report](/pdfs/BOD_writeup.pdf)<br/>
 [Watch it in action!](https://www.youtube.com/watch?v=pFaZ9D6f-rY)<br/>
